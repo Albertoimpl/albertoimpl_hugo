@@ -1,0 +1,11 @@
+baseurl = "http://albertoimpl.github.io"
+canonifyurls = true
+languageCode = "en-us"
+
+[params]
+    title = "AlbertoImpl"
+    ga = "UA-70265538-1"
+    disqusShortname = "AlbertoImpl"
+
+[blackfriday]
+    hrefTargetBlank = true
