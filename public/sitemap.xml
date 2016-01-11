@@ -2,18 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://albertoimpl.com/</loc>
-    <lastmod>2015-12-05T23:16:00+00:00</lastmod>
+    <loc>/-t/</loc>
+    <lastmod>2016-01-11T22:03:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://albertoimpl.com/post/the-importance-of-tail-recursion/</loc>
+    <loc>/-t/post/the-boy-scout-rule/</loc>
+    <lastmod>2016-01-11T22:03:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/-t/post/the-importance-of-tail-recursion/</loc>
     <lastmod>2015-12-05T23:16:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://albertoimpl.com/about/</loc>
+    <loc>/-t/about/</loc>
     <lastmod>2015-12-05T15:49:51+01:00</lastmod>
   </url>
   

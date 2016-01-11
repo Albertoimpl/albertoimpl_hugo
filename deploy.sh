@@ -1,3 +1,9 @@
+if [ "$#" != 1 ];
+    then
+    echo "Usage deploy.sh \"Commit message\""
+    exit
+fi    
+
 echo "Deploying public folder..." 
 
 echo "Generating theme with url" 
@@ -8,5 +14,6 @@ cp -R public/  ../albertoimpl.github.io
 
 cd ../albertoimpl.github.io
 git add -A
-git commit -m "Deploying public folder"
+echo "Committing with message \"$1\""
+git commit -m $1
 git push origin master
