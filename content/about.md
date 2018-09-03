@@ -5,9 +5,8 @@ title = "About"
 
 +++
 
-# Alberto Calleja, Software guy
+# Alberto C. R&iacute;os, Software guy
 
-Curious software developer interested in software architecture, clean code and testing.
-Occasional traveler and food lover.
+Software Engineer interested in building products people love in agile environments with a focus on high-quality tests and clean code.
 
 Drop me an email: albertoimpl AT gmail.com or find me on twitter: @albertoimpl

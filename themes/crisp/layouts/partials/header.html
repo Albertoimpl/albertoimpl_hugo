@@ -54,28 +54,11 @@
     {{end}}
         <link rel="canonical" href="{{ .Permalink }}" />
 
-    {{ if .IsPage }}
-    <script type="application/ld+json">
-    { 
-        "@context": "http://schema.org",
-        "@type": "Article",
-        "headline": "{{ .Title }}",
-        "author": {
-            "@type": "Person",
-            "name": "http://profiles.google.com/{{ .Site.Params.gplus }}?rel=author"
-        },
-        "datePublished": "{{ .Date.Format "2006-01-02" }}",
-        "description": "{{ .Description }}",
-        "wordCount": {{ .WordCount }}
-    }
-    </script>
-    {{ end }}
-    
     {{ partial "criticalpath.html" . }}
     </head>
     <body>
         <header id="header">
-            <a id="logo" href="{{ .Site.BaseURL }}"><img src="https://en.gravatar.com/userimage/12984271/294450ef8719b3c0dc281cefb20c772d.png?size=175" alt="{{ .Site.Title }}" /></a>
+            <a id="logo" href="{{ .Site.BaseURL }}"><img src="https://s.gravatar.com/avatar/c4902bbbe3c205286ffe185c29d71e39?s=175" alt="{{ .Site.Title }}" /></a>
             <h1><a href="{{.Site.BaseURL}}">{{.Site.Title}}</a></h1>
             <p>{{.Description}}</p>
 
