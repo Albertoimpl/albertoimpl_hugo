@@ -6,8 +6,8 @@ title = "The importance of tail recursion"
 On your way to becoming a more functional developer, you have to regain some of your recursion skills.
 Recursion is pure functional programming best natural match because you don’t need any state to recurse.
 
-If we look into its pure mathematical concept, a function has no side effects and no state. No side effects means you can’t use counters in loops since that would be a mutable state being modified (with would be the side effect).
-Recursive algorithms are simpler because they only deal with input values. In an iterative algorithm we need to consider the list as a whole.
+If we look into its pure mathematical concept, a function has no side effects and no state. No side effects mean you can’t use counters in loops since that would be a mutable state being modified (with would be the side effect).
+Recursive algorithms are simpler because they only deal with input values. In an iterative algorithm, we need to consider the list as a whole.
 
 	def factorial_iterative(n)
 	  accumulated = 1
