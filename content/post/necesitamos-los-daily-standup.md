@@ -1,5 +1,5 @@
 +++
-title = "¿Necesitamos los Daily Standup?"
+title = "&iquest;Necesitamos los Daily Standup?"
 date = 2020-04-30T12:46:36+02:00
 draft = true
 
@@ -8,14 +8,14 @@ draft = true
 Los Daily Standup son una de las herramientas más usadas desde que se popularizó el uso de [Scrum](https://www.scrum.org/resources/what-is-a-daily-scrum) pero, como toda herramienta, hay que pensar muy bien qué aporta al equipo.
 
 La forma más común de ejecutar el Daily es respondiendo las preguntas:
-* ¿Qué hiciste ayer?
-* ¿Qué vas a hacer hoy?
-* ¿Qué impedimentos o bloqueos no te están dejando ejecutar tu trabajo?
+* &iquest;Qué hiciste ayer?
+* &iquest;Qué vas a hacer hoy?
+* &iquest;Qué impedimentos o bloqueos no te están dejando ejecutar tu trabajo?
 
 Nosotros dejamos de hacer Dailies hace un tiempo.
 Somos un equipo [completamente distribuido](https://timezone.io/team/spring-cloud-services) y experimentamos cambiando la frecuencia de cada reunión que teníamos y pasamos de tener Dailies, una retro y un planning cada dos semanas a no tener Dailies y hacer retros y planning cada semana.
 
-## ¿Cómo se debe enfocar un Daily Standup?
+## &iquest;Cómo se debe enfocar un Daily Standup?
 
 Teniendo el backlog delante y ver en qué se está trabajando en ese momento.
 Una persona, que va rotando cada día, va leyendo qué hay en la columa de tareas que se están llevando a cabo. De esta forma, sólo hay una persona hablando y no los N componentes del equipo diciendo, todo OK. Salvo que alguien necesite ayuda o quiera comentar algo, pero es que, **que se espere a la Daily para pedir ayuda, ¡Está muy mal!** Hay que pedir ayuda en cuando la necesites, y no esperar al día siguiente o al final de tu día para hacerlo.
@@ -27,10 +27,10 @@ Para nosotros, el Daily no era lo que todo el mundo repetía: qué hice ayer, qué 
 Lo principal es entender la dirección a la que se quiere ir, si estás en un entorno donde hay confianza en el equipo el estado individual no debería ser relevante. Además, qué mejor forma de decirle al equipo que confías en todas las personas que lo componen que dejando de individualizar el trabajo y tratando las metas como objetivos comunes.
 Lo único en lo que hay que reinicidir periódicamente es en si tenemos claros nuestros objetivos y en si tenemos todo lo que necesitamos para alcanzarlos.
 Por eso, nosotros le quitamos el peso a las Dailies y, cada semana, conjuntamente, entre otras cosas, nos preguntamos:
-* En un planning: ¿Tenemos claro nuestros objetivos?
-* En una retrospectiva: ¿Tenemos todo lo que necesitamos para alcanzarlos?
+* En un planning: &iquest;Tenemos claro nuestros objetivos?
+* En una retrospectiva: &iquest;Tenemos todo lo que necesitamos para alcanzarlos?
 
-## ¿Cómo salimos del blucle?
+## &iquest;Cómo salimos del blucle?
 
 En nuestro, tenemos una plantilla de experimentos que decidimos aplicar, y fallar suponía volver a los Dailies. 
 Todos apreciamos el tener una reunión menos cada día que apenas nos aportaba al equipo.
