@@ -18,7 +18,7 @@ Somos un equipo [completamente distribuido](https://timezone.io/team/spring-clou
 ## &iquest;C&oacute;mo se debe enfocar un Daily Standup?
 
 Teniendo el backlog delante y ver en qu&eacute; se est&aacute; trabajando en ese momento.
-Una persona, que va rotando cada d&iacute;a, va leyendo qu&eacute; hay en la columa de tareas que se est&aacute;n llevando a cabo. De esta forma, s&oacute;lo hay una persona hablando y no los N componentes del equipo diciendo, todo OK. Salvo que alguien necesite ayuda o quiera comentar algo, pero es que, **que se espere a la Daily para pedir ayuda, ¡Est&aacute; muy mal!** Hay que pedir ayuda en cuando la necesites, y no esperar al d&iacute;a siguiente o al final de tu d&iacute;a para hacerlo.
+Una persona, que va rotando cada d&iacute;a, va leyendo qu&eacute; hay en la columa de tareas que se est&aacute;n llevando a cabo. De esta forma, s&oacute;lo hay una persona hablando y no los N componentes del equipo diciendo, todo OK. Salvo que alguien necesite ayuda o quiera comentar algo, pero es que, **que se espere a la Daily para pedir ayuda, &iexcl;Est&aacute; muy mal!** Hay que pedir ayuda en cuando la necesites, y no esperar al d&iacute;a siguiente o al final de tu d&iacute;a para hacerlo.
 
 Para nosotros, el Daily no era lo que todo el mundo repet&iacute;a: qu&eacute; hice ayer, qu&eacute; hago hoy y qu&eacute; me bloquea. Lo veo demasiada informaci&oacute;n para un Daily, sobre todo en equipos relativamente grandes.
 
