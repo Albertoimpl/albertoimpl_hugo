@@ -35,14 +35,14 @@ Por eso, nosotros le quitamos el peso a las Dailies y, cada semana, conjuntament
 En nuestro, tenemos una plantilla de experimentos que decidimos aplicar, y fallar supon&iacute;a volver a los Dailies. 
 Todos apreciamos el tener una reuni&oacute;n menos cada d&iacute;a que apenas nos aportaba al equipo.
 Desde que empez&oacute; el experimento, la mayor&iacute;a empezamos a escribir, desde ese mismo d&iacute;a en las historias y automatizamos que se publicaran los comentarios en Slack. As&iacute; que todo el equipo, en pocos d&iacute;as, acab&oacute; cayendo en la tendencia.
-Ser un equipo completamente distribuido en diferentes franjas horarias hace que la comunicaci&oacute;n as&iacute;ncrona sea siempre lo deseado, y si hay alg&uacute;n bloqueo o progreso significativo, lo escribimos en la tarea y avisamos al equipo al momento y no a la mañana siguiente.
+Ser un equipo completamente distribuido en diferentes franjas horarias hace que la comunicaci&oacute;n as&iacute;ncrona sea siempre lo deseado, y si hay alg&uacute;n bloqueo o progreso significativo, lo escribimos en la tarea y avisamos al equipo al momento y no a la ma&ntilde;ana siguiente.
 
 ## Herramientas que usamos
 
 Tenemos configurado para que cada vez que alguien haga un commit, abra una Pull quest o comente en una issue se publique en Slack, por lo que podemos, si queremos, leer toda esa informaci&oacute;n.
 Para recordarnos las Pull Requests abiertas, usamos [Pull Panda](https://pullreminders.com), un bot que tenemos integrado con Slack y deja un mensaje en el canal si algo lleva m&aacute;s de un d&iacute;a esperando ser revisado, adem&aacute;s te manda un mensaje directo cuando alguien te asigna para revisar algo.
-La mayor&iacute;a venimos de practicar [XP](https://en.wikipedia.org/wiki/Extreme_programming) de forma [muy, muy, muy exigente](https://builttoadapt.io/pivotal-labs-a-very-different-type-of-consultancy-9b47a27f0388) durante años. Por lo que practicamos Pair Programming a menudo, evitando as&iacute; silos de informaci&oacute;n y pudiendo compartir, con empat&iacute;a, las decisiones que se est&aacute;n tomando.
-Una de las primeras cosas que intento añadir a cada equipo son los [Acuerdos de Trabajo del Equipo](https://www.uvm.edu/sites/default/files/working-agreements-defined.pdf) y enfatizar en la [Definici&oacute;n de Completada](https://www.agilealliance.org/glossary/definition-of-done) para cada historia. El tener retrospectivas con mucha frecuencia, hace que, constantemente, salgan elementos para añadir y quitar en cada una de ellas.
+La mayor&iacute;a venimos de practicar [XP](https://en.wikipedia.org/wiki/Extreme_programming) de forma [muy, muy, muy exigente](https://builttoadapt.io/pivotal-labs-a-very-different-type-of-consultancy-9b47a27f0388) durante a&ntilde;os. Por lo que practicamos Pair Programming a menudo, evitando as&iacute; silos de informaci&oacute;n y pudiendo compartir, con empat&iacute;a, las decisiones que se est&aacute;n tomando.
+Una de las primeras cosas que intento a&ntilde;adir a cada equipo son los [Acuerdos de Trabajo del Equipo](https://www.uvm.edu/sites/default/files/working-agreements-defined.pdf) y enfatizar en la [Definici&oacute;n de Completada](https://www.agilealliance.org/glossary/definition-of-done) para cada historia. El tener retrospectivas con mucha frecuencia, hace que, constantemente, salgan elementos para a&ntilde;adir y quitar en cada una de ellas.
 
 ## Conclusiones
 
