@@ -21,7 +21,7 @@ Si en alg&uacute;n momento, queremos hablar con alguien, por sociabilizar o porq
 
 Para nosotros, el Daily no era lo que todo el mundo repet&iacute;a: qu&eacute; hice ayer, qu&eacute; hago hoy y qu&eacute; me bloquea. Lo veo demasiada informaci&oacute;n para un Daily, sobre todo en equipos relativamente grandes.
 
-Cuando hac&iacute;amos los Dailies, el formato era tteniendo el backlog delante y viendo en qu&eacute; se est&aacute; trabajando en ese momento.
+Cuando hac&iacute;amos los Dailies, el formato era teniendo el backlog delante y viendo en qu&eacute; se est&aacute; trabajando en ese momento.
 Una persona, que va rotando cada d&iacute;a, va leyendo qu&eacute; hay en la columa de tareas que se est&aacute;n llevando a cabo. De esta forma, s&oacute;lo hay una persona hablando y no los N componentes del equipo diciendo, todo OK, asegurando as&iacute; que el backlog siempre est&aacute; actualizado. Salvo que alguien necesite ayuda o quiera comentar algo, pero es que, **que se espere al Daily para pedir ayuda, &iexcl;Est&aacute; muy mal!** Hay que pedir ayuda en cuando la necesites, y no esperar al d&iacute;a siguiente o al final de tu d&iacute;a para hacerlo.
 
 ## Lo que de verdad importa
