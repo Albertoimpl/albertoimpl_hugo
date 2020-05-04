@@ -14,14 +14,14 @@ La forma m&aacute;s com&uacute;n de ejecutar el Daily es respondiendo las pregun
 
 Nosotros dejamos de hacer Dailies hace un tiempo.
 Somos un equipo [completamente distribuido](https://timezone.io/team/spring-cloud-services) en diferentes franjas horarias y experimentamos cambiando la frecuencia de cada reuni&oacute;n que ten&iacute;amos y pasamos de tener Dailies, una retro y un planning cada dos semanas a no tener Dailies y hacer retros y planning cada semana.
-La comunicaci&oacute;n ha mejorado considerablemente, se ha vuelto m&aacute;s as&iacute;ncrona, y aunque hay m&aacute;s que leer cada d&iacute;a, tenemos una idea m&aacute;s clara de en qu&eacute; est&aacute; trabajando cada miembro del equipo.
-Si en alg&uacute;n momento, queremos hablar con alguien del equipo, por sociabilizar o porque tengamos alg&uacute;n problema, solemos r&aacute;pidamente empezar una videollamada o hacer Pair Programming.
+La comunicaci&oacute;n ha mejorado considerablemente, se ha vuelto m&aacute;s as&iacute;ncrona, y aunque hay m&aacute;s que leer cada d&iacute;a, tenemos una idea m&aacute;s clara de en qu&eacute; est&aacute; trabajando cada miembro del equipo, ya que cada d&iacute;a, escribimos qu&eacute; avance hemos tenido en cada tarea, si esto es relevante para el equipo.
+Si en alg&uacute;n momento, queremos hablar con alguien, por sociabilizar o porque tengamos alg&uacute;n problema, solemos r&aacute;pidamente empezar una videollamada o hacer Pair Programming.
 
 ## &iquest;C&oacute;mo se debe enfocar un Daily Standup?
 
 Para nosotros, el Daily no era lo que todo el mundo repet&iacute;a: qu&eacute; hice ayer, qu&eacute; hago hoy y qu&eacute; me bloquea. Lo veo demasiada informaci&oacute;n para un Daily, sobre todo en equipos relativamente grandes.
 
-Teniendo el backlog delante y ver en qu&eacute; se est&aacute; trabajando en ese momento.
+Cuando hac&iacute;amos los Dailies, el formato era tteniendo el backlog delante y viendo en qu&eacute; se est&aacute; trabajando en ese momento.
 Una persona, que va rotando cada d&iacute;a, va leyendo qu&eacute; hay en la columa de tareas que se est&aacute;n llevando a cabo. De esta forma, s&oacute;lo hay una persona hablando y no los N componentes del equipo diciendo, todo OK, asegurando as&iacute; que el backlog siempre est&aacute; actualizado. Salvo que alguien necesite ayuda o quiera comentar algo, pero es que, **que se espere al Daily para pedir ayuda, &iexcl;Est&aacute; muy mal!** Hay que pedir ayuda en cuando la necesites, y no esperar al d&iacute;a siguiente o al final de tu d&iacute;a para hacerlo.
 
 ## Lo que de verdad importa
@@ -60,3 +60,4 @@ Cada equipo es un mundo, y que a nosotros nos haya funcionado esta forma de trab
 Es preferible, en entornos distribuidos, la comunicaci&oacute;n as&iacute;ncrona y al alcance de todos.
 Los Dailies son una gran herramienta, si se ejecutan bien y aportan algo a todo el equipo pero es m&aacute;s importante tener claro el rumbo a saber exactamente qui&eacute;n hace qu&eacute;.
 
+Gracias a [Miguel Ruiz](https://github.com/migueloop), [Raquel Pau](https://twitter.com/raquelpau), [Ra&uacute;l &Aacute;vila](https://twitter.com/_Raul_Avila) y [F&eacute;lix L&oacute;pez](https://twitter.com/flopezluis) por revisar el texto y por sus comentarios.
