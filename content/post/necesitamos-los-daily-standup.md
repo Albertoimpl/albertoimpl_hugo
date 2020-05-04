@@ -7,14 +7,14 @@ draft = false
 
 Los Daily Standup son una de las herramientas m&aacute;s usadas desde que se populariz&oacute; el uso de [Scrum](https://www.scrum.org/resources/what-is-a-daily-scrum) pero, como toda herramienta, hay que pensar muy bien qu&eacute; aporta al equipo.
 
-La forma m&aacute;s com&uacute;n de ejecutar el Daily es respondiendo las preguntas:
+La forma m&aacute;s com&uacute;n de ejecutar el Daily es respondiendo a las preguntas:
 * &iquest;Qu&eacute; hiciste ayer?
 * &iquest;Qu&eacute; vas a hacer hoy?
 * &iquest;Qu&eacute; impedimentos o bloqueos no te est&aacute;n dejando ejecutar tu trabajo?
 
 Nosotros dejamos de hacer Dailies hace un tiempo.
 Somos un equipo [completamente distribuido](https://timezone.io/team/spring-cloud-services) en diferentes franjas horarias y experimentamos cambiando la frecuencia de cada reuni&oacute;n que ten&iacute;amos y pasamos de tener Dailies, una retro y un planning cada dos semanas a no tener Dailies y hacer retros y planning cada semana.
-La comunicaci&oacute;n ha mejorado considerablemente, se ha vuelto m&aacute;s as&iacute;ncrona, y aunque hay m&aacute;s que leer cada d&iacute;a, tenemos una idea m&aacute;s clara de en qu&eacute; est&aacute; trabajando cada miembro del equipo, ya que cada d&iacute;a, escribimos qu&eacute; avance hemos tenido en cada tarea, si esto es relevante para el equipo.
+**La comunicaci&oacute;n ha mejorado considerablemente, se ha vuelto m&aacute;s as&iacute;ncrona, y aunque hay m&aacute;s que leer cada d&iacute;a, tenemos una idea m&aacute;s clara de en qu&eacute; est&aacute; trabajando cada miembro del equipo**, ya que cada d&iacute;a, escribimos qu&eacute; avance hemos tenido en cada tarea, si esto es relevante para el equipo.
 Si en alg&uacute;n momento, queremos hablar con alguien, por sociabilizar o porque tengamos alg&uacute;n problema, solemos r&aacute;pidamente empezar una videollamada o hacer Pair Programming.
 
 ## &iquest;C&oacute;mo se debe enfocar un Daily Standup?
@@ -41,6 +41,7 @@ Despu&eacute;s de tres semanas sin Dailies percib&iacute;amos todo el equipo por
 * La comunicaci&oacute;n mejoraba o se quedaba igual
 * No duplic&aacute;bamos trabajo
 * Ahorr&aacute;bamos tiempo
+
 Si no est&aacute;bamos todos de acuerdo, una vez pasadas tres semanas, volver&iacute;amos a los Dailies. 
 Todos apreciamos el tener una reuni&oacute;n menos cada d&iacute;a que apenas nos aportaba al equipo.
 Desde que empez&oacute; el experimento, la mayor&iacute;a empezamos a escribir, desde ese mismo d&iacute;a en las historias y [automatizamos que se publicaran los comentarios en Slack](https://slack.github.com/). As&iacute; que todo el equipo, en pocos d&iacute;as, acab&oacute; cayendo en la tendencia.
