@@ -27,7 +27,7 @@ Drop me an email: albertoimpl AT gmail.com or find me on twitter: @albertoimpl
 ## Conferences, Meetups and Online Trainings
 
 | Date | Event | Session | Link |
-|------|------------|---------|------|
+|:------:|:------------:|:---------:|:------:|
 | 01 Sep 2021 | SpringOne | A Series of Fortunate Events: Building an Operator in Java | [Recording](https://www.youtube.com/watch?v=bUypKLP2jqk&ab_channel=VMwareTanzu) |
 | 01 Sep 2021 | SpringOne | API Gateway How-To: The Many Ways to Apply the Gateway Pattern | [Recording](https://www.youtube.com/watch?v=mTY9EP-PgJM&ab_channel=VMwareTanzu) | 
 | 02 Aug 2021 | O'Reilly Training | Deploying Java APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/deploying-java-apis-on-kubernetes/0636920053756/0636920053755/) | 
@@ -35,7 +35,7 @@ Drop me an email: albertoimpl AT gmail.com or find me on twitter: @albertoimpl
 | 23 Jul 2021 | O'Reilly Training| DataOps Boot Camp: Kubernetes Data Storage and Retrieval | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446071/0636920054231/) |
 | 06 Jul 2021 | O'Reilly Training | DataOps Boot Camp: Deploying Python APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-deploying-python-apis-on-kubernetes/0636920446057/0636920054204/) |
 | 5 May 2021 | O'Reilly Training | Deploying Java APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/deploying-java-apis-on-kubernetes/0636920053756/0636920053755/) | 
-| 28 Apr 2021 | SpringOne Tour Europe | Kubernetes Workshop | [Recording](https://www.youtube.com/watch?v=Gp8rgshU2Ho&ab_channel=SpringDeveloper) |
+| 28 Apr 2021 | SpringOne Tour | Kubernetes Workshop | [Recording](https://www.youtube.com/watch?v=Gp8rgshU2Ho&ab_channel=SpringDeveloper) |
 | 5 Mar 2021 | BarcelonaJUG | Panelist about Kubernetes Operators | [Recording](https://www.youtube.com/watch?v=0yNVCK20buI&t=4714s&ab_channel=BarcelonaJug) | 
 | 09 Feb 2021 | O'Reilly Training| DataOps Boot Camp: Kubernetes Data Storage and Retrieval | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446071/0636920054231/) |
 | 02 Feb 2021 | O'Reilly Training | DataOps Boot Camp: Deploying Python APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-deploying-python-apis-on-kubernetes/0636920446057/0636920054204/) |
