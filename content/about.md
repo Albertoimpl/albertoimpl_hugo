@@ -28,6 +28,7 @@ Drop me an email: albertoimpl AT gmail.com or find me on twitter: @albertoimpl
 
 | Date | Event | Session | Link |
 |:------:|:------------:|:---------:|:------:|
+| 13 Oct 2021 | DBS Bank | Spring Cloud Gateway patterns on Kubernetes | Internal |
 | 01 Sep 2021 | SpringOne | A Series of Fortunate Events: Building an Operator in Java | [Recording](https://www.youtube.com/watch?v=bUypKLP2jqk&ab_channel=VMwareTanzu) |
 | 01 Sep 2021 | SpringOne | API Gateway How-To: The Many Ways to Apply the Gateway Pattern | [Recording](https://www.youtube.com/watch?v=mTY9EP-PgJM&ab_channel=VMwareTanzu) | 
 | 02 Aug 2021 | O'Reilly Training | Deploying Java APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/deploying-java-apis-on-kubernetes/0636920053756/0636920053755/) | 
