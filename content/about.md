@@ -28,6 +28,7 @@ Drop me an email: albertoimpl AT gmail.com or find me on twitter: @albertoimpl
 
 | Date | Event | Session | Link |
 |:------:|:------------:|:---------:|:------:|
+| 16 Dec 2021 | Open Talks | &iquest;C&oacute;mo empezar a contribuir a un proyecto Open Source? | [Recording](https://www.youtube.com/watch?v=pr-QR546lMw) |
 | 13 Oct 2021 | DBS Bank | Spring Cloud Gateway patterns on Kubernetes | Internal |
 | 01 Sep 2021 | SpringOne | A Series of Fortunate Events: Building an Operator in Java | [Recording](https://www.youtube.com/watch?v=bUypKLP2jqk&ab_channel=VMwareTanzu) |
 | 01 Sep 2021 | SpringOne | API Gateway How-To: The Many Ways to Apply the Gateway Pattern | [Recording](https://www.youtube.com/watch?v=mTY9EP-PgJM&ab_channel=VMwareTanzu) | 
