@@ -6,7 +6,7 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content="{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}" />
+        <meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}" />
         <meta property="og:site_name" content="{{ .Site.Title }}" />
         <meta property="og:url" content="{{ .Permalink }}" />
 
@@ -26,7 +26,7 @@
         <meta property="og:type" content="website" />
     {{ end }}
 
-        <title>{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}</title>
+        <title>{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}</title>
 
     {{ if .Description }}
         <meta name="description" content="{{ .Description }}" />
@@ -45,14 +45,6 @@
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->  
 
-    {{ if ne .URL "/" }}
-        <link href="{{ .Site.BaseURL }}index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    {{ end }}
-
-    {{if .IsNode}}
-        <link href="{{.RSSLink}}" rel="alternate" type="application/rss+xml" title="{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}" />
-    {{end}}
-        <link rel="canonical" href="{{ .Permalink }}" />
 
     {{ partial "criticalpath.html" . }}
     </head>
