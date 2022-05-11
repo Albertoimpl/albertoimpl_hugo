@@ -24,32 +24,36 @@ Recently, I have been speaking at different major software conferences, such as 
 Drop me an email: albertoimpl AT gmail.com or find me on twitter: @albertoimpl
 
 
-## Conferences, Meetups and Online Trainings
+## Conferences, Blogs, Meetups and Online Trainings
 
-| Date | Event | Session | Link |
-|:------:|:------------:|:---------:|:------:|
-| 16 Dec 2021 | Open Talks | &iquest;C&oacute;mo empezar a contribuir a un proyecto Open Source? | [Recording](https://www.youtube.com/watch?v=pr-QR546lMw) |
-| 13 Oct 2021 | DBS Bank | Spring Cloud Gateway patterns on Kubernetes | Internal |
-| 01 Sep 2021 | SpringOne | A Series of Fortunate Events: Building an Operator in Java | [Recording](https://www.youtube.com/watch?v=bUypKLP2jqk&ab_channel=VMwareTanzu) |
-| 01 Sep 2021 | SpringOne | API Gateway How-To: The Many Ways to Apply the Gateway Pattern | [Recording](https://www.youtube.com/watch?v=mTY9EP-PgJM&ab_channel=VMwareTanzu) | 
-| 02 Aug 2021 | O'Reilly Training | Deploying Java APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/deploying-java-apis-on-kubernetes/0636920053756/0636920053755/) | 
-| 21 Jul 2021 | BoliviaJUG | Desplegando aplicaciones Java | [Recording](https://www.youtube.com/watch?v=kSlwy_aRqqA&t=4892s&ab_channel=JavaUsersGroupBolivia) |
-| 23 Jul 2021 | O'Reilly Training| DataOps Boot Camp: Kubernetes Data Storage and Retrieval | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446071/0636920054231/) |
-| 06 Jul 2021 | O'Reilly Training | DataOps Boot Camp: Deploying Python APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-deploying-python-apis-on-kubernetes/0636920446057/0636920054204/) |
-| 5 May 2021 | O'Reilly Training | Deploying Java APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/deploying-java-apis-on-kubernetes/0636920053756/0636920053755/) | 
-| 28 Apr 2021 | SpringOne Tour | Kubernetes Workshop | [Recording](https://www.youtube.com/watch?v=Gp8rgshU2Ho&ab_channel=SpringDeveloper) |
-| 5 Mar 2021 | BarcelonaJUG | Panelist about Kubernetes Operators | [Recording](https://www.youtube.com/watch?v=0yNVCK20buI&t=4714s&ab_channel=BarcelonaJug) | 
-| 09 Feb 2021 | O'Reilly Training| DataOps Boot Camp: Kubernetes Data Storage and Retrieval | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446071/0636920054231/) |
-| 02 Feb 2021 | O'Reilly Training | DataOps Boot Camp: Deploying Python APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-deploying-python-apis-on-kubernetes/0636920446057/0636920054204/) |
-| 15 Dec 2020 | O'Reilly Training| DataOps Boot Camp: Kubernetes Data Storage and Retrieval | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446071/0636920054231/) |
-| 5 Dec 2020 | JConf Centroam&eacute;rica | Flujo de trabajo para desarrollar con Kubernetes en local | [Website](https://hopin.com/events/jconf-centroamerica-2020#schedule) |
-| 03 Dec 2020 | O'Reilly Training | DataOps Boot Camp: Deploying Python APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-deploying-python-apis-on-kubernetes/0636920446057/0636920054204/) |
-| 23 Oct 2020 | JConf Per&uacute; |  Desarrollo en local con Kubernetes | [Recording](https://www.youtube.com/watch?v=xG89qVn4Gx4&t=128s&ab_channel=PeruJUG) |
-| 03 Oct 2020 | JConf M&eacute;xico | Desarrollo en local con Kubernetes | [Recording](https://www.youtube.com/watch?v=A1Z2bQaNBx0&t=1129s&ab_channel=JConfMexico) |
-| 14 Sep 2020 | O'Reilly Training| DataOps Boot Camp: Kubernetes Data Storage and Retrieval | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446071/0636920054231/) |
-| 09 Sep 2020 | O'Reilly Training | DataOps Boot Camp: Deploying Python APIs on Kubernetes | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-deploying-python-apis-on-kubernetes/0636920446057/0636920054204/) | 
-| 08 Jul 2020 | VMware Tanzu | Assisting with Spring and Kubernetes Workshop | [Website](https://tanzu.vmware.com/events) |
-| 05 May 2020 | Spring I/O Bridge | Assisting with the organization | [Website](https://2020.springio.net/bridge/) |
-| 19 Mar 2020 | SpringLive | Kubernetes Local Development Workflow Distilled |  [Recording](https://www.youtube.com/watch?v=uc9ivy0puwk&t=3s&ab_channel=VMwareTanzu) |
-| 21 Feb 2020 | DevNexus | Kubernetes Local Development Workflow Distilled | [Recording](https://www.youtube.com/watch?v=l6buf1ysbDY&t=10s&ab_channel=devnexus) |
-| 04 Nov 2019 | Devoxx Belgium | Kubernetes Distilled - an in depth guide for the busy Java developer | [Recording](https://www.youtube.com/watch?v=l7lt6yYLvRo&ab_channel=Devoxx) |
+|    Date     |           Event            |                               Session                                |                                                                   Link                                                                   |
+|:-----------:|:--------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
+| 13 Apr 2022 |          DevNexus          |             Java on Kubernetes: What I wish I knew first             |                                             [Link](https://devnexus.com/presentations/6947/)                                             |
+| 16 Dec 2021 |         Open Talks         | &iquest;C&oacute;mo empezar a contribuir a un proyecto Open Source?  |                                         [Recording](https://www.youtube.com/watch?v=pr-QR546lMw)                                         |                                         
+| 08 Dec 2021 |        Spring Blog         |                    Spring Cloud Gateway and gRPC                     |                                 [Link](https://spring.io/blog/2021/12/08/spring-cloud-gateway-and-grpc)                                  |
+| 13 Oct 2021 |          DBS Bank          |             Spring Cloud Gateway patterns on Kubernetes              |                                                                 Internal                                                                 |
+| 01 Sep 2021 |         SpringOne          |      A Series of Fortunate Events: Building an Operator in Java      |                             [Recording](https://www.youtube.com/watch?v=bUypKLP2jqk&ab_channel=VMwareTanzu)                              |
+| 01 Sep 2021 |         SpringOne          |    API Gateway How-To: The Many Ways to Apply the Gateway Pattern    |                             [Recording](https://www.youtube.com/watch?v=mTY9EP-PgJM&ab_channel=VMwareTanzu)                              | 
+| 02 Aug 2021 |     O'Reilly Training      |                  Deploying Java APIs on Kubernetes                   |            [Website](https://learning.oreilly.com/live-events/deploying-java-apis-on-kubernetes/0636920053756/0636920053755/)            | 
+| 21 Jul 2021 |         BoliviaJUG         |                    Desplegando aplicaciones Java                     |                    [Recording](https://www.youtube.com/watch?v=kSlwy_aRqqA&t=4892s&ab_channel=JavaUsersGroupBolivia)                     |
+| 23 Jul 2021 |     O'Reilly Training      |       DataOps Boot Camp: Kubernetes Data Storage and Retrieval       | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446071/0636920054231/) |
+| 06 Jul 2021 |     O'Reilly Training      |        DataOps Boot Camp: Deploying Python APIs on Kubernetes        |  [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-deploying-python-apis-on-kubernetes/0636920446057/0636920054204/)  |
+| 5 May 2021  |     O'Reilly Training      |                  Deploying Java APIs on Kubernetes                   |            [Website](https://learning.oreilly.com/live-events/deploying-java-apis-on-kubernetes/0636920053756/0636920053755/)            | 
+| 28 Apr 2021 |       SpringOne Tour       |                         Kubernetes Workshop                          |                           [Recording](https://www.youtube.com/watch?v=Gp8rgshU2Ho&ab_channel=SpringDeveloper)                            |
+| 5 Mar 2021  |        BarcelonaJUG        |                 Panelist about Kubernetes Operators                  |                         [Recording](https://www.youtube.com/watch?v=0yNVCK20buI&t=4714s&ab_channel=BarcelonaJug)                         | 
+| 09 Feb 2021 |     O'Reilly Training      |       DataOps Boot Camp: Kubernetes Data Storage and Retrieval       | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446071/0636920054231/) |
+| 02 Feb 2021 |     O'Reilly Training      |        DataOps Boot Camp: Deploying Python APIs on Kubernetes        |  [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-deploying-python-apis-on-kubernetes/0636920446057/0636920054204/)  |
+| 15 Dec 2020 |     O'Reilly Training      |       DataOps Boot Camp: Kubernetes Data Storage and Retrieval       | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446071/0636920054231/) |
+| 5 Dec 2020  | JConf Centroam&eacute;rica |      Flujo de trabajo para desarrollar con Kubernetes en local       |                                  [Website](https://hopin.com/events/jconf-centroamerica-2020#schedule)                                   |
+| 03 Dec 2020 |     O'Reilly Training      |        DataOps Boot Camp: Deploying Python APIs on Kubernetes        |  [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-deploying-python-apis-on-kubernetes/0636920446057/0636920054204/)  |
+| 23 Oct 2020 |     JConf Per&uacute;      |                  Desarrollo en local con Kubernetes                  |                            [Recording](https://www.youtube.com/watch?v=xG89qVn4Gx4&t=128s&ab_channel=PeruJUG)                            |
+| 03 Oct 2020 |    JConf M&eacute;xico     |                  Desarrollo en local con Kubernetes                  |                         [Recording](https://www.youtube.com/watch?v=A1Z2bQaNBx0&t=1129s&ab_channel=JConfMexico)                          |
+| 14 Sep 2020 |     O'Reilly Training      |       DataOps Boot Camp: Kubernetes Data Storage and Retrieval       | [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-kubernetes-data-storage-and-retrieval/0636920446071/0636920054231/) |
+| 09 Sep 2020 |     O'Reilly Training      |        DataOps Boot Camp: Deploying Python APIs on Kubernetes        |  [Website](https://learning.oreilly.com/live-events/dataops-boot-camp-deploying-python-apis-on-kubernetes/0636920446057/0636920054204/)  | 
+| 08 Jul 2020 |        VMware Tanzu        |            Assisting with Spring and Kubernetes Workshop             |                                                [Website](https://tanzu.vmware.com/events)                                                |
+| 05 May 2020 |     Spring I/O Bridge      |                   Assisting with the organization                    |                                               [Website](https://2020.springio.net/bridge/)                                               |
+| 19 Mar 2020 |         SpringLive         |           Kubernetes Local Development Workflow Distilled            |                           [Recording](https://www.youtube.com/watch?v=uc9ivy0puwk&t=3s&ab_channel=VMwareTanzu)                           |
+| 21 Feb 2020 |          DevNexus          |           Kubernetes Local Development Workflow Distilled            |                            [Recording](https://www.youtube.com/watch?v=l6buf1ysbDY&t=10s&ab_channel=devnexus)                            |
+| 05 Nov 2019 |       Devoxx Belgium       |              Interview about Kubernetes with Arun Gupta              |                             [Recording](https://www.youtube.com/watch?v=QrEWZMtaVjI&t=3s&ab_channel=Devoxx)                              |
+| 04 Nov 2019 |       Devoxx Belgium       | Kubernetes Distilled - an in depth guide for the busy Java developer |                                [Recording](https://www.youtube.com/watch?v=l7lt6yYLvRo&ab_channel=Devoxx)                                |
+| 23 Aug 2019 |        VMware Blog         |    Replacing the Spring Cloud Services Circuit Breaker Dashboard     |               [Link](https://tanzu.vmware.com/content/blog/replacing-the-spring-cloud-services-circuit-breaker-dashboard)                |
