@@ -19,15 +19,16 @@ Apart from the consulting experience, I have been the technical co-founder of a 
 * Duel.fm where we tried to gamify the way music is discovered. We were awarded by the LaunchHouse accelerator program in Ohio.
 * ProHealth where we tried to help to secure and connect medical records. We are awarded by the Bolt accelerator program in M&aacute;laga, Spain, finalist of the Pasion>ie by the Instituto de Empresa, finalists of the Fundetec award, finalist of the AJE award by the Sevilla entrepreneurship association and we were chosen by the 100 paths to success by the Cajasol Institute.
 
-Recently, I have been speaking at different major software conferences, such as the largest software conference in Europe, the largest Java conference in America, and online conferences with thousands of attendees.
+Recently, I have been delivering online trainings in O'Reilly, and speaking at different major software conferences, such as the largest software conference in Europe, the largest Java conference in America, and online conferences with thousands of attendees.
 
-Drop me an email: albertoimpl AT gmail.com or find me on twitter: @albertoimpl
+Drop me an email: albertoimpl AT gmail.com or find me on Twitter: @albertoimpl
 
 
 ## Conferences, Blogs, Meetups and Online Trainings
 
 |    Date     |           Event            |                               Session                                |                                                                   Link                                                                   |
 |:-----------:|:--------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
+| 06 Jul 2022 |    JDKFundamentalTalks     |                  Ask Me Anything: Spring Framework                   |                          [Recording](https://www.youtube.com/watch?v=SEdYcSuJVwE&t=5s&ab_channel=JUGNicaragua)                           |
 | 13 Apr 2022 |          DevNexus          |             Java on Kubernetes: What I wish I knew first             |                                             [Link](https://devnexus.com/presentations/6947/)                                             |
 | 16 Dec 2021 |         Open Talks         | &iquest;C&oacute;mo empezar a contribuir a un proyecto Open Source?  |                                         [Recording](https://www.youtube.com/watch?v=pr-QR546lMw)                                         |                                         
 | 08 Dec 2021 |        Spring Blog         |                    Spring Cloud Gateway and gRPC                     |                                 [Link](https://spring.io/blog/2021/12/08/spring-cloud-gateway-and-grpc)                                  |
