@@ -100,4 +100,4 @@ This should give us a much better level of confidence and that configuration can
 
 In conclusion, native images are a very useful tool that brought a lot of innovation into the Java ecosystem, frameworks supporting them do a very decent job when inferring the required native configurations for reflection, resources, proxies, etc… but there are still several other pieces that need to be navigated when trying to make it production ready for some use cases.
 
-Thanks to Abel Salgado, Vicente Soriano, Ignacio Lozano, and Sébastien Deleuze for their feedback on this article.
+Thanks to [Abel Salgado](https://twitter.com/abelsromero), [Vicente Soriano](https://github.com/visomar), [Ignacio Lozano](https://twitter.com/ilozano2), and [Sébastien Deleuze](https://twitter.com/sdeleuze) for their feedback on this article.
